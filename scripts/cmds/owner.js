@@ -42,18 +42,15 @@ module.exports.onStart = async ({ api, event }) => {
         const caption = 
 `⚡ ━Owner Info━ ⚡
 
-👑 𝖭𝖺𝗆𝖾 : 𝔐𝔯.𝔎𝔦𝔫𝔤 ☠️✌🏼
+👑 𝖭𝖺𝗆𝖾 : Su baru 🌚
 📌 𝖱𝗈𝗅𝖾 : 𝖠𝖽𝗆𝗂𝗇 / 𝖮𝗐𝗇𝖾𝗋
-💔 𝖡𝗂𝗈 : 𝖲𝗂𝗇𝗀𝗅𝖾 ⚡
+💔 𝖡𝗂𝗈 : 𝖲𝗂𝗇𝗀𝗅𝖾 + pevert🫦
 
-🎮 ━━ Mlbb Info ━━🎮
-
-🆔 𝖨𝖦𝖭 : 0xMr_King
-🔢 𝖨𝖖 : 2251640751 (19633)
-⚔️ 𝖬𝖺𝗍𝖼𝗁𝖾𝗌 : Played for fun 
-👍 𝖫𝗂𝗄𝖾𝗌 : Day by day Up and Uping
-🏅 𝖧𝖾𝗋𝗈𝖾𝗌 : 9
-🛡️ 𝖲𝗊𝗎𝖺𝖽 : Not in a squad
+🎮 ━━ pevert 👄━━🎮
+👄Drim.  _      Married 🫦
+🌚Age    _      22+
+🏠from   _      Nepal 🇳🇵
+fb info  _https://www.facebook.com/share/19d6HQJMVQ/
 
 ⚡ ━━━━━━━━━━━━━━━━━━━━ ⚡`;
 
